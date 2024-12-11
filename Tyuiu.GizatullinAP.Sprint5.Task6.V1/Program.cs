@@ -5,7 +5,7 @@ namespace Tyuiu.GizatullinAP.Sprint5.Task6.V1
     internal class Program
     {
         static void Main(string[] args)
-        {
+       {
             DataService ds = new DataService();
             Console.Title = "Спринт #5 | Выполнил: Гизатуллин А. П. | ИСПб-24-1";
             Console.WriteLine("**************************************************************************");
